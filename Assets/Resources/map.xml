@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map>
+  <Bounds xMin="0" yMin="0" xMax="10" yMax="10"/>
+  <Tiles>
+      <Parallel index="0">
+        <Tile index="0">
+          <City>Tannenberg</City>
+          <Nature type="grasslands" />
+        </Tile>
+        <Tile index="1">
+          <Nature type="desert" />
+        </Tile>
+        <Tile index="2">
+          <Nature type="water" />
+        </Tile>
+      </Parallel>
+    <Parallel index="0">
+      <Tile index="0">
+        <City>Frederiksburg</City>
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="desert"/>
+      </Tile>
+      <Tile index="2">
+        <Nature type="water"  />
+      </Tile>
+    </Parallel>
+    <Parallel index="0">
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="water" />
+      </Tile>
+    </Parallel>
+  </Tiles>
+</Map>
