@@ -1,0 +1,6129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Map player="6">
+  <Bounds xMin="-20" xMax="17" yMin="-24" yMax="30" />
+  <Connections>
+    <Route start="6" end="7" />
+    <Route start="7" end="9" />
+    <Route start="6" end="8" />
+    <Route start="8" end="10" />
+    <Route start="6" end="2" />
+    <Route start="2" end="1" />
+    <Route start="6" end="5" />
+    <Route start="5" end="3" />
+    <Route start="6" end="4" />
+  </Connections>
+  <Tiles>
+    <Parallel index="-24">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-23">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-22">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-21">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-20">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-19">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-18">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-17">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-16">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-15">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-14">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-13">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-12">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-11">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-10">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-9">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+        <City index="1">Klagenheim</City>
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-8">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-7">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-6">
+      <Tile index="-20">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-5">
+      <Tile index="-20">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-4">
+      <Tile index="-20">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-3">
+      <Tile index="-20">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-2">
+      <Tile index="-20">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+        <City index="2">Landmarkt</City>
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="-1">
+      <Tile index="-20">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="0">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+        <City index="3">Kortsen</City>
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+        <City index="4">Naamven</City>
+      </Tile>
+      <Tile index="1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="1">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="2">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="3">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="4">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+        <City index="8">Flaason</City>
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="5">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="6">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="7">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+        <City index="10">Martiyonne</City>
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="8">
+      <Tile index="-20">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="9">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="10">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+        <City index="6">Nanmont</City>
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="11">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="12">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+        <City index="5">Frieddorf</City>
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="13">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="14">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="15">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="16">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="17">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="18">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+        <City index="7">Leipbrück</City>
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="19">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="20">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="21">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="22">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="23">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="24">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="25">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+        <City index="9">Arnehof</City>
+      </Tile>
+      <Tile index="5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="26">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="27">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="28">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+    <Parallel index="29">
+      <Tile index="-20">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-19">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-18">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-17">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-16">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-15">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-14">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-13">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-12">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-11">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-10">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-9">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-8">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-7">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-6">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-5">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="-1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="0">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="1">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="2">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="3">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="4">
+        <Nature type="desert" />
+      </Tile>
+      <Tile index="5">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="6">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="7">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="8">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="9">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="10">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="11">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="12">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="13">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="14">
+        <Nature type="water" />
+      </Tile>
+      <Tile index="15">
+        <Nature type="grasslands" />
+      </Tile>
+      <Tile index="16">
+        <Nature type="grasslands" />
+      </Tile>
+    </Parallel>
+  </Tiles>
+</Map>

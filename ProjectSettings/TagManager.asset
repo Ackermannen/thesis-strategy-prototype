@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Non-static Sprites
+  - Cities
+  - EnvOnly
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 3523565701
+    locked: 0
+  - name: Rails
+    uniqueID: 2716865047
+    locked: 0
+  - name: Cities
+    uniqueID: 873347949
+    locked: 0
+  - name: Entities
+    uniqueID: 2067922493
+    locked: 0
+  - name: Overlay
+    uniqueID: 758578125
+    locked: 0
